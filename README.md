@@ -1,1 +1,1 @@
-RSA FACTORY CHALLENGE
+RSA-Factoring-Challenge
